@@ -1,0 +1,14 @@
+1. Create a class Team that can store the following data 
+a. Team name 
+b. The three players
+c. Total runs scored 
+2. Greet user with a welcome message 
+3. Initialize two teams 
+4. Display team details 
+5. Select a batsman and a bowler for the first inning 
+6. Start playing the first inning 
+7. Record total runs scored by the batting team in the first inning 
+8. Select a batsman and a bowler for the second inning 
+9. Start playing the second inning 
+10. Record total runs scored by the batting team in the second inning 
+11. Decide the winner
